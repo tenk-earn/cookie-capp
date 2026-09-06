@@ -1,0 +1,31 @@
+{
+  "name": "cookie-kitchen",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Cookie Kitchen — read-only utility cApp on Cookie Chain (SVM)",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc --noEmit && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@solana/wallet-adapter-base": "^0.9.27",
+    "@solana/wallet-adapter-react": "^0.15.39",
+    "@solana/wallet-adapter-react-ui": "^0.9.39",
+    "@solana/wallet-adapter-nightly": "^0.1.20",
+    "@solana/wallet-adapter-phantom": "^0.9.28",
+    "@solana/wallet-adapter-solflare": "^0.6.32",
+    "@solana/web3.js": "^1.98.4",
+    "buffer": "^6.0.3",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.6",
+    "@types/react-dom": "^19.1.5",
+    "@vitejs/plugin-react": "^4.3.4",
+    "typescript": "^5.7.3",
+    "vite": "^6.0.11"
+  }
+}
