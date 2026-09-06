@@ -2,7 +2,7 @@
 
 Repo: https://github.com/tenk-earn/cookie-capp
 
-Live URL: see [LIVE_URL.md](./LIVE_URL.md) (PENDING until Grok Build HTTPS deploy). Until then, `npm run build && npm run preview`.
+Live URL: https://cookie-kitchen.pages.dev — see [LIVE_URL.md](./LIVE_URL.md).
 
 ## Judge click path
 

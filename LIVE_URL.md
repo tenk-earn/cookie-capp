@@ -1,3 +1,6 @@
-PENDING
+https://cookie-kitchen.pages.dev
 
-Waiting for Grok Build HTTPS deploy. Replace this file with the public https URL when the app is served.
+Deployed 2026-09-06 by TenK via Cloudflare Pages (`cookie-kitchen` project).
+Preview deploy also: https://39906573.cookie-kitchen.pages.dev
+
+Contest ≠ cash. HUMAN_ONLY Earn submit still needs Kenneth.

@@ -11,12 +11,12 @@ https://github.com/tenk-earn/cookie-capp
 ## Live application URL
 
 ```
-PENDING
+https://cookie-kitchen.pages.dev
 ```
 
-Waiting on Grok Build HTTPS deploy. Track status in [LIVE_URL.md](./LIVE_URL.md).
+Live: https://cookie-kitchen.pages.dev (Cloudflare Pages). Track in [LIVE_URL.md](./LIVE_URL.md).
 
-Local fallback for reviewers: `npm install && npm run build && npm run preview`.
+Local fallback: `npm install && npm run build && npm run preview`.
 
 ## Program / contract / token / application addresses
 
